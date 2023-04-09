@@ -1,0 +1,1 @@
+Design a database in mongo to store a binary tree. Write an Express API to do a breadth-first search on the database given a particular starting node. Submit your assignment to GitHub and share the link.
